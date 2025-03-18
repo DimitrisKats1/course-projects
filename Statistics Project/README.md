@@ -49,7 +49,7 @@ The analytical approach of this project includes the following steps:
 ## Additional Information
 Detailed explanations, code snippets, and visualizations are provided within the full report (available as PDF within this repository). The report includes comprehensive diagnostics, justification for chosen methodologies, and insights derived from the exploratory analysis.
 
-\]
+
 
 ### Final Model Performance Metrics:
 - **R-squared**: 0.886  
