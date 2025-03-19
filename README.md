@@ -16,9 +16,6 @@ This repository contains a collection of data science and machine learning proje
 - **[Big Data](Big%20Data/)**  
   Analysis and processing of large-scale datasets using Apache Spark, Hadoop, and distributed systems.
 
-- **[Python Project (Stock Market Simulation Game)](Python%20Project/)**  
-  A detailed simulation for stock market investment strategies, incorporating historical stock data and trading logic.
-
 ## 🛠️ Technologies & Tools
 - Python
 - Apache Spark
